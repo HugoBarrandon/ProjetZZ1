@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/mnt/local.isima.fr/juclosson/projetzz1/Julien/xfenetre'
+gcc x_fenetre.c -o exec -Wall -Wextra -lSDL2
+rm -rf *.o
+make: Leaving directory '/mnt/local.isima.fr/juclosson/projetzz1/Julien/xfenetre'
+ 
